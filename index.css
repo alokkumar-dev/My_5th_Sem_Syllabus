@@ -51,12 +51,7 @@ hr{
     font-size: 30px;
 }
 .downlode-image{
-   width: 200px;
+   width: 300px;
     height: auto;
-    
-}
-#downlode-link{
-   margin: 10px;
-   float: left;
-
+    margin-left:20px;
 }
