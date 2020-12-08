@@ -3,7 +3,6 @@ body{
     padding: 10px;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoejkmzyHcN4VmssORqOq_3-ccrpjAvf5i-g&usqp=CAU);
 }
-
 #sub-link{
     font-weight: bold;
     margin-top: 25px;
@@ -50,4 +49,14 @@ hr{
     text-align: center;
     width: 100%;
     font-size: 30px;
+}
+.downlode-image{
+   width: 200px;
+    height: auto;
+    
+}
+#downlode-link{
+   margin: 10px;
+   float: left;
+
 }
